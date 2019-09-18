@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/JorgeJOcampo/mongoose-vs-crud#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.0",
     "crud-mongoose": "^1.0.40",
     "express": "^4.16.4",
     "mongoose": "^5.3.12",
