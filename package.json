@@ -27,7 +27,7 @@
     "body-parser": "^1.18.3",
     "crud-mongoose": "^1.0.40",
     "express": "^4.16.4",
-    "mongoose": "^5.3.12",
+    "mongoose": "^5.7.6",
     "node-crud": "^2.1.6",
     "nodemon": "^1.18.6"
   }
